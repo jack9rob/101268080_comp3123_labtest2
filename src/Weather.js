@@ -31,7 +31,7 @@ export default function Weather() {
     return (
         <div class="mt-5 container border border-primary d-flex justify-content-center align-items-center">
            
-            <div class="container">
+           <div class="container">
                 <div class="d-flex justify-content-center">
                         <h1>{day}</h1>
                 </div>
